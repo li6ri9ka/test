@@ -1,4 +1,3 @@
-from cgitb import reset
 from http.client import responses
 
 import requests
